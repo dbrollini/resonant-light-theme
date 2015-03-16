@@ -4,7 +4,7 @@
     "description": "Light theme, with dark UI elements. Uses SourceSansPro (variable-width) for comments. Font smoothing is set to sub-pixel for better rendering on Mac OSX.",
     "homepage": "https://github.com/consonance",
     "version": "0.1.1",
-    "author": "Cosonance",
+    "author": "Consonance",
     "license": "MIT",
     "repository": {
         "type": "git",
