@@ -21,7 +21,7 @@ Version History
 
 ####0.1.2
 
-- Support for Documents Tabs
+- Support for Documents Toolbars (https://github.com/dnbard/brackets-documents-toolbar)
 
 License
 ---
