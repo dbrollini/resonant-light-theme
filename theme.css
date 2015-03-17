@@ -206,3 +206,55 @@ CSS Color Preview
   border: none;
   margin-bottom: 0.2em;
 }
+/*
+Tabs
+*/
+.ext-documents {
+  padding: 0 2px;
+  background: #000;
+}
+.ext-documents .document {
+  padding: 3px 2em 3px 10px;
+  text-align: center;
+  line-height: 1.4;
+  margin: 0 2px 0 0;
+  color: #fff;
+  background: #555;
+  border-radius: 5px;
+  font-family: 'SourceSansPro-Light';
+  background: #333;
+  transition: none;
+  opacity: 1;
+  color: #aaa;
+  overflow: hidden;
+}
+.ext-documents .document.selected {
+  color: #fff;
+  background: #26c1fa;
+  transition: none;
+}
+.ext-documents .document.changed {
+  box-shadow: none;
+  background: #ffc400;
+  transition: none;
+}
+.ext-documents .document-close {
+  color: #111;
+  transition: none;
+  cursor: pointer;
+  opacity: 1;
+  line-height: 1.5;
+  text-align: center;
+}
+.ext-documents .document.selected .document-close {
+  color: #75daff;
+}
+.ext-documents .document.changed .document-close {
+  color: #fff;
+}
+.ext-documents .document-close:hover,
+.ext-documents .button-icon:hover {
+  color: #555;
+  opacity: 1;
+  transition: none;
+}
