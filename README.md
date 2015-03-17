@@ -6,7 +6,7 @@ Adobe Brackets light theme, with dark UI elements. It uses the SourceSansPro typ
 Screenshot
 ---
 
-![HTML](images/screenshot-011.png)
+![HTML](images/screenshot-012.png)
 
 Version History
 ---
@@ -18,7 +18,10 @@ Version History
 
 - Support for CSS Color Preview (https://github.com/cmgddd/Brackets-css-color-preview)
 - Padding fix to gutters/line numbers
-- Moved and rearranged repository
+
+####0.1.2
+
+- Support for Documents Tabs
 
 License
 ---
